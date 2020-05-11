@@ -32,7 +32,7 @@ projects[devmaster][download][type] = "git"
 projects[devmaster][type] = profile
 projects[devmaster][download][type] = git
 projects[devmaster][download][branch] = 7.x-1.x
-projects[devmaster][download][url] = "https://github.com/opendevshop/devmaster.git"
+projects[devmaster][download][url] = "https://github.com/sidharrell/opendevshop.devmaster.git"
 ###DEVELOPMENTEND###
 
 ; CAS
